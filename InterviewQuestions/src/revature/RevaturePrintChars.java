@@ -1,4 +1,5 @@
 package revature;
+
 /**
  * Coding question asked by Revature during technical interview on 22 Jan. 2026
  */
