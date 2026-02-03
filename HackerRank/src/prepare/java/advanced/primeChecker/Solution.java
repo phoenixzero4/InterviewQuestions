@@ -9,7 +9,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-
+// import static java.lang.System.in; 
+/* for Java 7 solution on HackerRank */
 
 
 public class Solution {
@@ -54,6 +55,12 @@ public class Solution {
 		}
 	}
 
+	// TODO clean this code up - it is ugly, inefficient and I don't like it
+	
+	//   https://www.hackerrank.com/challenges/prime-checker/problem 
+	
+	
+	
 	public static void main(String[] args) {
 		try {
 			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
