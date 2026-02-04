@@ -2,6 +2,7 @@ package certify.java.braces;
 
 import java.util.*;
 import java.util.Scanner;
+import java.util.Math;
 
 // Write your code here. DO NOT use an access modifier in your class declaration.
 class Parser{
